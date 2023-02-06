@@ -10,7 +10,7 @@ public class Question_2 {
         int count;
         int ct=0;
 
-        //Converts given string into character array
+        
         char string[] = string1.toCharArray();
 
         System.out.println("Duplicate characters in a given string: ");
